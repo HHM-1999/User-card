@@ -1,0 +1,30 @@
+
+/* deshboard section */
+.deshboardSection{
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+.deshboardSection h1{
+  font-size: 35px;
+  font-weight: 600;
+}
+/* card section */
+.card img{
+padding: 20px;
+}
+.card-body{
+text-align: center;
+}
+.Usercard {
+  padding: 20px;
+  border: 1px solid #dedede;
+
+}
+.card-text-denied {
+	font-size: 20px;
+	color: crimson;
+	font-weight: 600;
+}
+
+
